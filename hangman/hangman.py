@@ -10,7 +10,6 @@
 import random
 
 import tkinter as tk
-
 #global numberOfGuesses
 #global lettersGuessed
 #global Alphabet
