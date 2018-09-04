@@ -11,7 +11,7 @@ import random
 
 import tkinter as tk
 
-#global numberOfGuessesd
+#global numberOfGuesses
 #global lettersGuessed
 #global Alphabet
 global numberOfGuesses
